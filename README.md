@@ -64,32 +64,15 @@ Hi! I'm **Karthi**, a Computer Science student interested in building practical 
 
 <!-- ======================= PROJECTS ======================= -->
 
-## 🚀 Featured Projects
 
-### 📈 Stock Market Prediction
-
-Machine Learning project focused on analyzing stock-market data,
-creating technical indicators and predicting market movements.
-
-**Tech:** Python • Pandas • XGBoost • Machine Learning
 
 ---
 
-### 🏷️ Stock Data & Label Pipeline
 
-A 5-minute stock-data pipeline that creates session-aware trading
-labels and validates the labeling logic using automated tests.
-
-**Tech:** Python • Pandas • Parquet • Pytest
 
 ---
 
-### ☕ Mini Redis
 
-A Java-based Redis-style command-line project created to understand
-objects, command parsing, databases and data storage.
-
-**Tech:** Java
 
 
 <!-- ======================= GITHUB STATS ======================= -->

@@ -114,24 +114,12 @@ objects, command parsing, databases and data storage.
 
 <!-- ======================= STREAK ======================= -->
 
-## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Karthi17406&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 <!-- ======================= CONTRIBUTIONS ======================= -->
 
-## 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 
 <!-- ======================= CURRENTLY LEARNING ======================= -->

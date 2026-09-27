@@ -24,13 +24,6 @@
 
 Hi! I'm **Karthi**, a Computer Science student interested in building practical software and Machine Learning projects.
 
-- 🤖 Currently learning **Machine Learning**
-- 🐍 Working with **Python**
-- ☕ Building projects with **Java**
-- 📈 Exploring **stock-market data and prediction**
-- 🧠 Interested in **Data Science and Backend Development**
-- 💻 Learning by building real-world projects
-- 🚀 Always trying to improve my programming skills
 
 
 <!-- ======================= TECH STACK ======================= -->
@@ -101,15 +94,7 @@ objects, command parsing, databases and data storage.
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karthi17406&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthi17406&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 
 <!-- ======================= STREAK ======================= -->

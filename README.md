@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1> 404: Limits not found.</h1>
+
 
 <h3>Learning. Building. Evolving. 🚀</h3>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Karthi+%F0%9F%91%8B;Backend+%26+Software+Developer+%F0%9F%92%BB;REST+API+%26+Integration+Enthusiast+%F0%9F%94%8C;Java+%7C+Python+%7C+SQL+Developer;Building+practical+software+projects+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%A7%A0"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Karthi+%F0%9F%91%8B;Backend+%26+Software+Developer+%F0%9F%92%BB;REST+API+%26+Integration+Enthusiast+%F0%9F%94%8C;Java+%7C+Python+%7C+SQL+Developer;Building+practical+software+projects+%F0%9F%9A%80;404%3A+Limits+not+found."/>
 
 </div>
 

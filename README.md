@@ -91,33 +91,17 @@
 
 
 
-<!-- ======================= CURRENTLY LEARNING ======================= -->
 
-## 🌱 Currently Learning
 
-<div align="center">
+       ↓
 
-```text
-Backend Development
-       ↓
-REST APIs & Integrations
-       ↓
-Databases & System Design
-       ↓
-Java & Data Structures
-       ↓
-Machine Learning
-       ↓
-Real-world Software Projects
-```
 
-</div>
 
 ---
 
 <div align="center">
 
-### 💻 404: Limits not found.
+
 
 **Learning. Building. Evolving. 🚀**
 

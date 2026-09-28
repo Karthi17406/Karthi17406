@@ -24,17 +24,7 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
-## 👋 About Me
 
-Hi! I'm **Karthi**, a Computer Science student interested in **backend development, REST APIs, databases, third-party integrations, and Machine Learning**.
-
-I have hands-on experience building and working with APIs, retrieving and managing data from databases, and integrating third-party services into applications.
-
-During my **Zoho internship**, I worked with REST APIs, API testing, database-related tasks, third-party integrations, and backend development.
-
-I'm also building a **Redis-inspired database in Java**, exploring TCP communication, persistence, transactions, concurrency, and ML-based cache eviction.
-
-Currently, I'm looking for **remote Software Engineer / Backend Developer opportunities** where I can work on real-world software systems.
 
 <!-- ======================= TECH STACK ======================= -->
 
@@ -84,77 +74,22 @@ Currently, I'm looking for **remote Software Engineer / Backend Developer opport
 
 <!-- ======================= EXPERIENCE ======================= -->
 
-## 💼 Experience
 
-### Software Engineer Intern — Zoho
-
-Worked on:
-
-* REST API development and testing
-* API request/response handling
-* GET, POST, PUT and DELETE operations
-* Database-related tasks
-* Third-party API integrations
-* OAuth-based integrations
-* Debugging and testing API workflows
 
 <!-- ======================= PROJECTS ======================= -->
 
-## 🚀 Featured Projects
 
-### 🗄️ MiniRedis — Redis-Inspired Database
-
-A Redis-inspired key-value database built in **Java**.
-
-**Features:**
-
-* TCP client-server communication
-* Key-value operations
-* Persistence
-* Transactions
-* Concurrent client handling
-* TTL / key expiration
-* LRU eviction
-* ML-based eviction
-* Automatic fallback to LRU when the ML service is unavailable
-
-### 📈 Stock Prediction & Backtesting
-
-Machine Learning project using **XGBoost** to predict potential stock movements and evaluate predictions through a backtesting system.
-
----
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karthi17406&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthi17406&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
 
 <!-- ======================= STREAK ======================= -->
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Karthi17406&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <!-- ======================= CONTRIBUTIONS ======================= -->
 
-## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph animation" width="100%"/>
-
-</div>
 
 <!-- ======================= CURRENTLY LEARNING ======================= -->
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>💻 404: Limits not found.</h1>
+<h1> 404: Limits not found.</h1>
 
 <h3>Learning. Building. Evolving. 🚀</h3>
 

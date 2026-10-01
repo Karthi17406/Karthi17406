@@ -4,7 +4,7 @@
 
 
 
-<h3>Learning. Building. Evolving. 🚀</h3>
+<h3>Learning. Building. Evolving. </h3>
 
 <br>
 
@@ -28,9 +28,9 @@
 
 <!-- ======================= TECH STACK ======================= -->
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 </div>
 
-### 🔌 Backend & APIs
+###  Backend & APIs
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
-### 🤖 Machine Learning & Data
+###  Machine Learning & Data
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 </div>
 
-### 🔧 Tools
+###  Tools
 
 <div align="center">
 
@@ -103,6 +103,6 @@
 
 
 
-**Learning. Building. Evolving. 🚀**
+**Learning. Building. Evolving. **
 
 </div>

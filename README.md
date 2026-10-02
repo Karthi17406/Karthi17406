@@ -7,8 +7,7 @@
 <h3>Learning. Building. Evolving. </h3>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&fontColor=ffffff&animation=fadeIn&desc=Backend%20%7C%20APIs%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Karthi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20APIs%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=60&descSize=20" width="100%"/>
 
 </div>
 

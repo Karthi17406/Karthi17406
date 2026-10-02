@@ -73,6 +73,8 @@
 
 <!-- ======================= LEETCODE ======================= -->
 
+## LeetCode
+
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/karthikayini1706?theme=dark&font=Baloo&ext=heatmap" />

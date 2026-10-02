@@ -2,9 +2,7 @@
 
 <div align="center">
 
-
-
-<h3>Learning. Building. Evolving. </h3>
+<h3>Learning. Building. Evolving.</h3>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Karthi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20APIs%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=60&descSize=20" width="100%"/>
@@ -15,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Karthi+%F0%9F%91%8B;Backend+%26+Software+Developer+%F0%9F%92%BB;REST+API+%26+Integration+Enthusiast+%F0%9F%94%8C;Java+%7C+Python+%7C+SQL+Developer;Building+practical+software+projects+%F0%9F%9A%80;404%3A+Limits+not+found."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Karthi;Backend+%26+Software+Developer;REST+API+%26+Integration+Enthusiast;Java+%7C+Python+%7C+SQL+Developer;Building+practical+software+projects;404%3A+Limits+not+found."/>
 
 </div>
 
@@ -23,13 +21,11 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
-
-
 <!-- ======================= TECH STACK ======================= -->
 
-##  Tech Stack
+## Tech Stack
 
-###  Languages
+### Languages
 
 <div align="center">
 
@@ -37,7 +33,7 @@
 
 </div>
 
-###  Backend & APIs
+### Backend & APIs
 
 <div align="center">
 
@@ -52,7 +48,7 @@
 
 </div>
 
-###  Machine Learning & Data
+### Machine Learning & Data
 
 <div align="center">
 
@@ -63,7 +59,7 @@
 
 </div>
 
-###  Tools
+### Tools
 
 <div align="center">
 
@@ -73,35 +69,26 @@
 
 <!-- ======================= EXPERIENCE ======================= -->
 
-
-
 <!-- ======================= PROJECTS ======================= -->
 
+<!-- ======================= LEETCODE ======================= -->
 
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/karthikayini1706?theme=dark&font=Baloo&ext=heatmap" />
+
+</div>
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-
-
 <!-- ======================= STREAK ======================= -->
 
-
 <!-- ======================= CONTRIBUTIONS ======================= -->
-
-
-
-
-
-       ↓
-
-
 
 ---
 
 <div align="center">
 
-
-
-**Learning. Building. Evolving. **
+**Learning. Building. Evolving.**
 
 </div>

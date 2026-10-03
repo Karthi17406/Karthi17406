@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Karthi;Backend+%26+Software+Developer;REST+API+%26+Integration+Enthusiast;Java+%7C+Python+%7C+SQL+Developer;Building+practical+software+projects;404%3A+Limits+not+found."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Karthi;404%3A+Limits+not+found;Backend+%26+Software+Developer;Building+practical+software+projects."/>
 
 </div>
 
